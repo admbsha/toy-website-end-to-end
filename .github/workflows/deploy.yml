@@ -118,3 +118,6 @@ jobs:
           -CI
       name: Run smoke tests
       shell: pwsh
+
+      ## new 
+      ##Awd
