@@ -25,7 +25,7 @@ var appServicePlanName = 'toy-website'
 var logAnalyticsWorkspaceName = 'workspace-${resourceNameSuffix}'
 var applicationInsightsName = 'toywebsite'
 var storageAccountName = 'mystorage${resourceNameSuffix}'
-
+//adwaawd awd aw daw 
 // Define the SKUs for each component based on the environment type.
 var environmentConfigurationMap = {
   Production: {
